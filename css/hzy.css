@@ -1,0 +1,26 @@
+/*section for skills tootil*/
+
+.progress-bar:hover .skill_tip {
+    /* Whatever */
+    display: initial;
+}
+.skill_tip{
+    display: none;
+}
+
+.tech-skill-list__item__detail {
+    -webkit-box-shadow: 0 0 3px rgba(0,0,0,.2);
+    background: hsla(0,0%,100%,.8);
+    border-radius: 4px;
+    box-shadow: 0 0 3px rgba(0,0,0,.2);
+ 
+    left: 150px;
+    line-height: 1.5;
+    padding: 10px;
+    position: absolute;
+    top: 12px;
+    width: 350px;
+    z-index: 9999;
+}
+
+
